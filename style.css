@@ -1,0 +1,62 @@
+.fejlec{
+  width: 1500px;
+  height: 320px;
+  background: url(https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png);
+  background-size: cover; 
+  position: relative;
+}
+
+.fejlec #sky{
+  position: absolute;
+  top: 200px;
+  left: 300px;
+  font-family: Abril Fatface;
+  font-size:30px;
+}
+.fejlec #sky2{
+  position: absolute;
+  top: 240px;
+  left: 300px;
+  font-family: Abril Fatface;
+  font-size:60px;
+}
+
+.torzs{ 
+  margin: 30px 300px 30px 300px;
+  font-family: Josefin Sans;
+  font-size: 20px;
+}
+
+.lista {
+  list-style-type: square;
+}
+
+.idezet{
+  font-family: Merriweather;
+  font-size: 50px;
+  font-style: italic;
+  background: grey;
+  color: white;
+  margin: 30px 280px 30px 280px;
+  padding: 20px;
+  text-align: center;
+  position: relative;
+}
+.idezet #macska{
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 70px;
+}
+
+.torzs #alcim1{
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.torzs #alcim2{
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
